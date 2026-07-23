@@ -1,0 +1,31 @@
+# Qt Creator
+.qtcreator/
+*.user
+*.user.*
+
+# Build folders
+build/
+build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+
+# Debug / Release
+Debug/
+Release/
+debug/
+release/
+
+# OS files
+.DS_Store
+Thumbs.db
