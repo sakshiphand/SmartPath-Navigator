@@ -23,7 +23,10 @@ The application uses **OpenStreetMap (OSM)** map data and provides an interactiv
 - 🟢 Source and 🔴 destination markers
 
 ---
+## 📸 Project Screenshot
 
+![SmartPath Navigator Route Visualization](screenshots/[smartpath-route.png](https://github.com/sakshiphand/SmartPath-Navigator/blob/main/screenshots/Screenshot%202026-07-23%20224343.png))
+---
 ## 🧠 Algorithms
 
 ### Dijkstra's Algorithm
